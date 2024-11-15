@@ -6,7 +6,7 @@ To install ProcDump for Mac, you'll need to install [Homebrew](https://brew.sh) 
 
 1. Add the Sysinternals tap:
    ```bash
-   brew tap sysinternals/sysinternalstap
+   brew tap Microsoft/sysinternalstap
    ```
    
 1. Install individual Sysinternals tools:
