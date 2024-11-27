@@ -49,7 +49,7 @@ Options:
    -o      Overwrite existing dump file.
    -log    Writes extended ProcDump tracing to the specified output stream (syslog or stdout).
    -w      Wait for the specified process to launch if it's not running.```
-
+```
 ### Examples
 > The following examples all target a process with pid == 1234
 
